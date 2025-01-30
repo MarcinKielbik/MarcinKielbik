@@ -18,7 +18,7 @@ I enjoy crafting efficient, scalable, and maintainable applications with **C#** 
 - **Backend:** C#, ASP.NET Core Web API  
 - **Frontend:** JavaScript, TypeScript, Angular, RxJS  
 - **Databases:** SQL Server, PostgreSQL  
-- **Tools:** Docker, Git, CI/CD, Azure  
+- **Tools:** Git, CI/CD
 
 ## ⚡ Fun Fact  
 I love **sci-fi movies** and playing **video games**! 🎮🚀  
