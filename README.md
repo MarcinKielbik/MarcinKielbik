@@ -18,18 +18,14 @@ I enjoy crafting efficient, scalable, and maintainable applications with **C#** 
 - **Backend:** C#, ASP.NET Core Web API  
 - **Frontend:** JavaScript, TypeScript, Angular, RxJS  
 - **Databases:** SQL Server, PostgreSQL  
-- **Tools:** Git, CI/CD
+- **Tools:** Git, CI/CD  
 
 ## ⚡ Fun Fact  
 I love **sci-fi movies** and playing **video games**! 🎮🚀  
 Whether it's exploring distant galaxies or saving virtual worlds, I’m all in!  
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcinKielbik&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinKielbik&layout=compact&theme=radical)  
+## 📬 Contact Me  
+📧 **Email:** [marcinlukasz.kielbik@gmail.com](mailto:marcinlukasz.kielbik@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/marcinkielbik](https://www.linkedin.com/in/marcin-kie%C5%82bik-9aa805234/)  
 
-## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-kie%C5%82bik-9aa805234/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcinKielbik)  
-
-🔥 **Keep coding, keep innovating!** 🚀  
+🔥 **Keep coding, keep innovating!** 🚀
