@@ -1,29 +1,29 @@
 # Hello World! ⌨️
 
-👋 Hi there! I'm **Marcin Kiełbik**, a passionate technology enthusiast with experience in **.NET**, **Angular**, and **Python** with **Django**. I enjoy crafting efficient, scalable, and maintainable applications using **C#**, **TypeScript**, and **Python**.
+👋 Hi there! I'm **Marcin Kiełbik**, a passionate technology enthusiast with experience in **.NET**, **Angular**, and **Java** with **Spring Boot**. I enjoy crafting efficient, scalable, and maintainable applications using **C#**, **TypeScript**, and **Java**.
 
-## 💡 Why C#, TypeScript, and Python?
+## 💡 Why C#, TypeScript, and Java?
 
-- **C#** 💙
-  - 🚀 Strongly-typed, object-oriented language ideal for enterprise applications.
-  - 🔥 Powerful when combined with **ASP.NET Core** for backend development.
+- **C#** 💙  
+  - 🚀 Strongly-typed, object-oriented language ideal for enterprise applications.  
+  - 🔥 Powerful when combined with **ASP.NET Core** for backend development.  
   - 🎯 Excellent tooling and support in **Visual Studio** and **JetBrains Rider**.
 
-- **TypeScript** 🟦
-  - 🏹 Type safety combined with JavaScript's flexibility.
-  - ⚡ Enhances maintainability and scalability of frontend applications.
+- **TypeScript** 🟦  
+  - 🏹 Type safety combined with JavaScript's flexibility.  
+  - ⚡ Enhances maintainability and scalability of frontend applications.  
   - 🔗 Perfect match with **Angular** and **RxJS** for reactive programming.
 
-- **Python** 🐍
-  - 🌐 Versatile and readable language, ideal for rapid prototyping.
-  - 🛠️ **Django** as a powerful framework for web application development.
-  - 📈 Widely used in data analysis, machine learning, and automation.
+- **Java** ☕  
+  - 🌍 Platform-independent, widely used in backend systems.  
+  - 🛠️ **Spring Boot** provides powerful tools for building production-ready REST APIs.  
+  - 🧩 Rich ecosystem and strong community support.
 
 ## 🛠️ My Tech Stack
 
-- **Backend:** C#, ASP.NET Core Web API, Python, Django
-- **Frontend:** JavaScript, TypeScript, Angular, RxJS
-- **Databases:** SQL Server, PostgreSQL
+- **Backend:** C#, ASP.NET Core Web API, Java, Spring Boot  
+- **Frontend:** JavaScript, TypeScript, Angular, RxJS  
+- **Databases:** SQL Server, PostgreSQL  
 - **Tools:** Git, CI/CD
 
 ## ⚡ Fun Fact
