@@ -1,46 +1,38 @@
 # Hello World! ⌨️
 
-👋 Hi there! I'm **Marcin Kiełbik**, a technology-driven problem solver with a focus on bridging the gap between **business strategy** and **software engineering**. I bring hands-on experience in **Python**, **Java** with **Spring Boot**, and **Angular**, applying them to create scalable, data-driven solutions that support business transformation.
+👋 Hi there! I'm **Marcin Kiełbik**, a passionate technology enthusiast with experience in **Python**, **Angular**, and **Java** with **Spring Boot**. I enjoy crafting efficient, scalable, and maintainable applications using **Python**, **TypeScript**, and **Java**.
 
 ## 💡 Why Python, TypeScript, and Java?
 
 - **Python** 🐍  
-  - 🧠 Ideal for data analytics, automation, and AI applications in business consulting.  
-  - 📊 Frequently used in building prototypes, data pipelines, and insights for strategic decision-making.  
-  - 🧰 Strong ecosystem for scripting, ML (e.g. `pandas`, `scikit-learn`), and process optimization.
+  - 🚀 Versatile, readable, and powerful – great for scripting, web development, and data analysis.  
+  - 🔥 Excellent libraries for backend development, automation, and machine learning.  
+  - 🎯 Widely used in consulting and business environments for its rapid prototyping capabilities.
 
 - **TypeScript** 🟦  
-  - 📐 Brings structure to JavaScript – crucial for scalable frontends in enterprise tools.  
-  - 🔁 Excellent support for reactive and event-driven UIs with **Angular** and **RxJS**.  
-  - 🤝 Enables rapid prototyping of dashboards and business apps.
+  - 🏹 Type safety combined with JavaScript's flexibility.  
+  - ⚡ Enhances maintainability and scalability of frontend applications.  
+  - 🔗 Perfect match with **Angular** and **RxJS** for reactive programming.
 
 - **Java** ☕  
-  - 🏗️ Trusted backend language, great for building robust APIs and microservices with **Spring Boot**.  
-  - 🔐 Frequently used in enterprise integration and secure, production-grade systems.  
-  - 🌱 Valuable in long-term consulting engagements for digital transformation.
+  - 🌍 Platform-independent, widely used in backend systems.  
+  - 🛠️ **Spring Boot** provides powerful tools for building production-ready REST APIs.  
+  - 🧩 Rich ecosystem and strong community support.
 
 ## 🛠️ My Tech Stack
 
-- **Backend:** Python, Java (Spring Boot), RESTful APIs  
-- **Frontend:** TypeScript, Angular, RxJS  
-- **Data & Analytics:** Python (Pandas, NumPy), SQL (PostgreSQL, SQL Server)  
-- **DevOps & Tools:** Git, CI/CD, Docker, Jupyter  
-
-## 🌍 What I Bring to a Consulting Team
-
-- 🎯 A mindset focused on **value delivery**, **client needs**, and **strategic impact**.  
-- 🔍 Experience in aligning **technical solutions** with **business goals**.  
-- 📈 Ability to prototype, analyze, and deploy tools that support transformation, efficiency, and innovation.
+- **Backend:** Python (Flask, FastAPI), Java, Spring Boot  
+- **Frontend:** JavaScript, TypeScript, Angular, RxJS  
+- **Databases:** SQL Server, PostgreSQL  
+- **Tools:** Git, CI/CD
 
 ## ⚡ Fun Fact
 
-I love **sci-fi movies** and playing **video games**! 🎮🚀 Whether it's exploring distant galaxies or solving real-world problems with code — I'm all in!
+I love **sci-fi movies** and playing **video games**! 🎮🚀 Whether it's exploring distant galaxies or saving virtual worlds, I'm all in!
 
 ## 📬 Contact Me
 
 📧 **Email:** [marcinlukasz.kielbik@gmail.com](mailto:marcinlukasz.kielbik@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/marcinkielbik](https://www.linkedin.com/in/marcin-kie%C5%82bik-9aa805234/)
 
----
-
-🔥 **Build smarter. Think bigger. Deliver impact.** 🚀
+🔥 **Keep coding, keep innovating!** 🚀
