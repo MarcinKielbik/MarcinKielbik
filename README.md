@@ -21,7 +21,7 @@
 
 ## 🛠️ My Tech Stack
 
-- **Backend:** Python (Flask, FastAPI), Java, Spring Boot  
+- **Backend:** Python (Django), Java, Spring Boot  
 - **Frontend:** JavaScript, TypeScript, Angular, RxJS  
 - **Databases:** SQL Server, PostgreSQL  
 - **Tools:** Git, CI/CD
