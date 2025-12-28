@@ -4,15 +4,15 @@
 
 ## 💡 Why Python, TypeScript, and Java?
 
-- **Python** 🐍  
-  - 🚀 Versatile, readable, and powerful – great for scripting, web development, and data analysis.  
-  - 🔥 Excellent libraries for backend development, automation, and machine learning.  
-  - 🎯 Widely used in consulting and business environments for its rapid prototyping capabilities.
-
 - **TypeScript** 🟦  
   - 🏹 Type safety combined with JavaScript's flexibility.  
   - ⚡ Enhances maintainability and scalability of frontend applications.  
   - 🔗 Perfect match with **Angular** and **RxJS** for reactive programming.
+
+- **Python** 🐍  
+  - 🚀 Versatile, readable, and powerful – great for scripting, web development, and data analysis.  
+  - 🔥 Excellent libraries for backend development, automation, and machine learning.  
+  - 🎯 Widely used in consulting and business environments for its rapid prototyping capabilities.
 
 - **Java** ☕  
   - 🌍 Platform-independent, widely used in backend systems.  
