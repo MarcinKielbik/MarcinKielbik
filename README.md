@@ -14,14 +14,17 @@
   - 🔥 Excellent libraries for backend development, automation, and machine learning.  
   - 🎯 Widely used in consulting and business environments for its rapid prototyping capabilities.
 
-- **Java** ☕  
-  - 🌍 Platform-independent, widely used in backend systems.  
-  - 🛠️ **Spring Boot** provides powerful tools for building production-ready REST APIs.  
-  - 🧩 Rich ecosystem and strong community support.
+- **C# / .NET**
+
+  - 🌍 Modern, strongly-typed language ideal for building robust backend systems.
+  - 🛠️ .NET platform enables creating high-performance web APIs, desktop, and cloud applications.
+  - 🧩 Rich ecosystem, great tooling, and strong enterprise adoption.
+
+
 
 ## 🛠️ My Tech Stack
 
-- **Backend:** Python (Django), Java, Spring Boot  
+- **Backend:** Python (Django), C# 
 - **Frontend:** JavaScript, TypeScript, Angular, RxJS  
 - **Databases:** SQL Server, PostgreSQL  
 - **Tools:** Git, CI/CD
