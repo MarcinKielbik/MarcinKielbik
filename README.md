@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm **Marcin Kiełbik**, a passionate technology enthusiast with experience in ***Angular**, *Python**, and **Java** with **Spring Boot**. I enjoy crafting efficient, scalable, and maintainable applications using  **TypeScript**, **Python**, and **Java**.
 
-## 💡 Why Python, TypeScript, and Java?
+## 💡 Why Python, TypeScript?
 
 - **TypeScript** 🟦  
   - 🏹 Type safety combined with JavaScript's flexibility.  
@@ -13,12 +13,6 @@
   - 🚀 Versatile, readable, and powerful – great for scripting, web development, and data analysis.  
   - 🔥 Excellent libraries for backend development, automation, and machine learning.  
   - 🎯 Widely used in consulting and business environments for its rapid prototyping capabilities.
-
-- **C# / .NET**
-
-  - 🌍 Modern, strongly-typed language ideal for building robust backend systems.
-  - 🛠️ .NET platform enables creating high-performance web APIs, desktop, and cloud applications.
-  - 🧩 Rich ecosystem, great tooling, and strong enterprise adoption.
 
 
 
