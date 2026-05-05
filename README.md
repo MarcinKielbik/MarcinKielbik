@@ -18,7 +18,6 @@
 
 ## 🛠️ My Tech Stack
 
-- **Backend:** Python (Django), C# 
 - **Frontend:** JavaScript, TypeScript, Angular, RxJS  
 - **Databases:** SQL Server, PostgreSQL  
 - **Tools:** Git, CI/CD
