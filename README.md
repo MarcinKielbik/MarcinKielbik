@@ -1,6 +1,6 @@
 # Hello World! ⌨️
 
-👋 Hi there! I'm **Marcin Kiełbik**, a passionate technology enthusiast with experience in ***Angular**, *Python**, and **Java** with **Spring Boot**. I enjoy crafting efficient, scalable, and maintainable applications using  **TypeScript**, **Python**, and **Java**.
+👋 Hi there! I'm **Marcin Kiełbik**, a passionate technology enthusiast with experience in ***Angular**, *Python**, and **Java** with **Spring Boot**. I enjoy crafting efficient, scalable, and maintainable applications using  **TypeScript**, **Python**
 
 ## 💡 Why Python, TypeScript?
 
