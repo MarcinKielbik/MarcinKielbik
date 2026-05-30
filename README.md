@@ -1,6 +1,6 @@
 # Hello World! ⌨️
 
-👋 Hi there! I'm **Marcin Kiełbik**, a passionate technology enthusiast with experience in ***Angular**, *Python**, and **Java** with **Spring Boot**. I enjoy crafting efficient, scalable, and maintainable applications using  **TypeScript**, **Python**
+👋 Hi there! I'm **Marcin Kiełbik**, a passionate technology enthusiast with experience in ***Angular**, *Python**, and **Java** with **Spring Boot**. I enjoy crafting efficient, scalable, and maintainable applications using  **TypeScript**, **Python** and **C#**
 
 ## 💡 Why Python, TypeScript and C#?
 
@@ -14,7 +14,7 @@
   - Excellent libraries for backend development, automation, and machine learning.  
   - Widely used in consulting and business environments for its rapid prototyping capabilities.
 
-- **C#**
+- **C#** ⚙️
   - Powerful and modern language for backend and enterprise applications.
   - Excellent integration with ASP.NET Core and REST API development.
   - Strongly typed and well-suited for scalable systems and clean architecture.
